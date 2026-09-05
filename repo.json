@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0.0",
+  "repository": "concept-treatment-tools",
+  "state": "LOCAL_READY",
+  "publisher": {
+    "name": "SHAR Production",
+    "website": "https://sharprod.com/"
+  },
+  "assets": [
+    {
+      "asset_id": "shar-pe400-w07-123",
+      "slug": "concept-evaluation-scorecard",
+      "title": "Concept Evaluation Scorecard",
+      "title_ru": "Оценочная карта концепций",
+      "family": "concept_treatment",
+      "purpose": "Ranks concepts with weighted strategic and production criteria.",
+      "purpose_ru": "Ранжирует концепции по взвешенным стратегическим и производственным критериям.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    },
+    {
+      "asset_id": "shar-pe400-w07-124",
+      "slug": "treatment-section-validator",
+      "title": "Treatment Section Validator",
+      "title_ru": "Валидатор разделов тритмента",
+      "family": "concept_treatment",
+      "purpose": "Checks a treatment against required narrative and execution sections.",
+      "purpose_ru": "Сверяет тритмент с обязательными разделами истории и реализации.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    }
+  ]
+}

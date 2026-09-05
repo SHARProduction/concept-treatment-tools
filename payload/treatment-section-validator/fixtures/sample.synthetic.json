@@ -1,0 +1,14 @@
+{
+  "required": [
+    "idea",
+    "story",
+    "visuals",
+    "production"
+  ],
+  "sections": {
+    "idea": "x",
+    "story": "x",
+    "visuals": "x",
+    "production": "x"
+  }
+}

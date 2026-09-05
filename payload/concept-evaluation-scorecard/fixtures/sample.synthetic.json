@@ -1,0 +1,21 @@
+{
+  "criteria": [
+    {
+      "id": "fit",
+      "weight": 0.6
+    },
+    {
+      "id": "feasibility",
+      "weight": 0.4
+    }
+  ],
+  "concepts": [
+    {
+      "name": "A",
+      "scores": {
+        "fit": 9,
+        "feasibility": 8
+      }
+    }
+  ]
+}
